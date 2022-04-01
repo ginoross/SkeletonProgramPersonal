@@ -1,0 +1,8 @@
+Player Name: Julie, Symbol: X, Score: 1.0
+Player Name: Charlotte, Symbol: X, Score: 0.0
+
+Player Name: Julie, Symbol: X, Score: 1.0
+Player Name: Charlotte, Symbol: X, Score: 0.0
+
+Player Name: Julie, Symbol: O, Score: 15.0
+Player Name: Charlotte, Symbol: X, Score: 32.0
